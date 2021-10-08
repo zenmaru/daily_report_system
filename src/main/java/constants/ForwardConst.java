@@ -75,6 +75,3 @@ public enum ForwardConst {
     }
 
 }
-public enum ForwardConst {
-
-}

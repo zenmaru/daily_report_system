@@ -18,6 +18,3 @@ public enum PropertyConst {
         return this.text;
     }
 }
-public enum PropertyConst {
-
-}

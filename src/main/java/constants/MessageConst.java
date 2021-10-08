@@ -44,7 +44,3 @@ public enum MessageConst {
         return this.text;
     }
 }
-
-public enum MessageConst {
-
-}

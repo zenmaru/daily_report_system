@@ -71,6 +71,3 @@ public enum AttributeConst {
     }
 
 }
-public enum AttributeConst {
-
-}
