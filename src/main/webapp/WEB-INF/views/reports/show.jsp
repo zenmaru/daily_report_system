@@ -42,7 +42,7 @@
 
         <c:if test="${sessionScope.login_employee.id == report.employee.id}">
             <p>
-                <a href="<c:url value='?action=${actEmp}&command=${commEdit}&id=${report.id}'/>">この日報を編集する</a>
+                <a href="<c:url value='?action=${actRep}&command=${commEdit}&id=${report.id}'/>">この日報を編集する</a>
             </p>
         </c:if>
         <p>
