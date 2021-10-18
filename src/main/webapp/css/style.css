@@ -151,3 +151,6 @@ table#report_list .report_action {
 pre{
     font-family: "Hiragino Lalu Gothic Pro",Meiryo,"MS PGothic",Helvetica,Arial,sans-serif;
 }
+h3 {
+    font-size: larger;
+}
